@@ -1,7 +1,7 @@
 # Udacity-DA-Adv-Project1-Statistics-testing
 
 this project is a part of Udacity Data Analysis Advanced Nanodegree Program.    
-it's the first project out of 2 projects.     
+it's the first project out of 2.     
 
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
