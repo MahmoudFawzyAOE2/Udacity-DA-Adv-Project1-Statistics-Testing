@@ -2,8 +2,7 @@
 
 this project is a part of Udacity Data Analysis Advanced Nanodegree Program.    
 it's the first project out of 2 projects.     
-you have to unzip "udacity bike data.zip" file and all 4 files (1 [.py] and 3 [.csv]) are in the same folder    
-the code is made with Python Programming laguage and using Numpy & Pandas
+
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
 
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website.
