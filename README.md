@@ -16,7 +16,7 @@ Your goal is to work through this notebook to help the company understand if the
   here we'll compute some basic statistics to explore the data.
   
 #Part II - A/B Test   
-  testing the relation between converting rate and pagy type.       
+  testing the relation between converting rate and page type.       
 
 #Part III - A regression approach     
   another method to make sure of the results and to find some other relations      
